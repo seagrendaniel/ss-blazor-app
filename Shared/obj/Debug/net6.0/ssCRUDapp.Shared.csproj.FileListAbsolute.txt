@@ -1,0 +1,11 @@
+/Users/danseagren/Code-Stuff/ss-blazor-app/ssCRUDapp/Shared/bin/Debug/net6.0/ssCRUDapp.Shared.deps.json
+/Users/danseagren/Code-Stuff/ss-blazor-app/ssCRUDapp/Shared/bin/Debug/net6.0/ssCRUDapp.Shared.dll
+/Users/danseagren/Code-Stuff/ss-blazor-app/ssCRUDapp/Shared/bin/Debug/net6.0/ssCRUDapp.Shared.pdb
+/Users/danseagren/Code-Stuff/ss-blazor-app/ssCRUDapp/Shared/obj/Debug/net6.0/ssCRUDapp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danseagren/Code-Stuff/ss-blazor-app/ssCRUDapp/Shared/obj/Debug/net6.0/ssCRUDapp.Shared.AssemblyInfoInputs.cache
+/Users/danseagren/Code-Stuff/ss-blazor-app/ssCRUDapp/Shared/obj/Debug/net6.0/ssCRUDapp.Shared.AssemblyInfo.cs
+/Users/danseagren/Code-Stuff/ss-blazor-app/ssCRUDapp/Shared/obj/Debug/net6.0/ssCRUDapp.Shared.csproj.CoreCompileInputs.cache
+/Users/danseagren/Code-Stuff/ss-blazor-app/ssCRUDapp/Shared/obj/Debug/net6.0/ssCRUDapp.Shared.dll
+/Users/danseagren/Code-Stuff/ss-blazor-app/ssCRUDapp/Shared/obj/Debug/net6.0/refint/ssCRUDapp.Shared.dll
+/Users/danseagren/Code-Stuff/ss-blazor-app/ssCRUDapp/Shared/obj/Debug/net6.0/ssCRUDapp.Shared.pdb
+/Users/danseagren/Code-Stuff/ss-blazor-app/ssCRUDapp/Shared/obj/Debug/net6.0/ref/ssCRUDapp.Shared.dll

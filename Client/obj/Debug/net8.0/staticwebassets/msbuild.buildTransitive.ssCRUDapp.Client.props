@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/ssCRUDapp.Client.props" />
+</Project>
