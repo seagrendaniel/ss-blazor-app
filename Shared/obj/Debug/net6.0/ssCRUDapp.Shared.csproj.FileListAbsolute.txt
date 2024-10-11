@@ -9,3 +9,4 @@
 /Users/danseagren/Code-Stuff/ss-blazor-app/ssCRUDapp/Shared/obj/Debug/net6.0/refint/ssCRUDapp.Shared.dll
 /Users/danseagren/Code-Stuff/ss-blazor-app/ssCRUDapp/Shared/obj/Debug/net6.0/ssCRUDapp.Shared.pdb
 /Users/danseagren/Code-Stuff/ss-blazor-app/ssCRUDapp/Shared/obj/Debug/net6.0/ref/ssCRUDapp.Shared.dll
+/Users/danseagren/Code-Stuff/ss-blazor-app/ssCRUDapp/Shared/obj/Debug/net6.0/ssCRUDapp.Shared.sourcelink.json

@@ -91,3 +91,4 @@
 /Users/danseagren/Code-Stuff/ss-blazor-app/ssCRUDapp/Server/obj/Debug/net8.0/ssCRUDapp.Server.pdb
 /Users/danseagren/Code-Stuff/ss-blazor-app/ssCRUDapp/Server/obj/Debug/net8.0/ssCRUDapp.Server.genruntimeconfig.cache
 /Users/danseagren/Code-Stuff/ss-blazor-app/ssCRUDapp/Server/obj/Debug/net8.0/ref/ssCRUDapp.Server.dll
+/Users/danseagren/Code-Stuff/ss-blazor-app/ssCRUDapp/Server/obj/Debug/net8.0/ssCRUDapp.Server.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ssCRUDapp.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98ef7f627de05151b2db95ae25e5daa73334b2bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ssCRUDapp.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ssCRUDapp.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

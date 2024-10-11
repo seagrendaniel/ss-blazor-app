@@ -1053,3 +1053,4 @@
 /Users/danseagren/Code-Stuff/ss-blazor-app/ssCRUDapp/Client/obj/Debug/net8.0/refint/ssCRUDapp.Client.dll
 /Users/danseagren/Code-Stuff/ss-blazor-app/ssCRUDapp/Client/obj/Debug/net8.0/ssCRUDapp.Client.pdb
 /Users/danseagren/Code-Stuff/ss-blazor-app/ssCRUDapp/Client/obj/Debug/net8.0/ref/ssCRUDapp.Client.dll
+/Users/danseagren/Code-Stuff/ss-blazor-app/ssCRUDapp/Client/obj/Debug/net8.0/ssCRUDapp.Client.sourcelink.json
